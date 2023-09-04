@@ -14,7 +14,7 @@ It returns X, a homogeneous transform that defines the transformation between th
 # CheckerFramePlace.py
 A set of 3 functions, Map, Frame, and Video frame, that take input images with a clearly visible checkerboard and either maps the inner corners of the checkerboard, places a frame on the checkerboard, or places a frame on a checkerboard captured in a live image respectivley.
 
-# Fk_Revyn.py
+# FK_Revyn.py
 A python translation of the forward kinematics FK_Revyn.m file from the Revyn arm control project. See https://github.com/Brevinbanks/RevynArm
 
 # Finv.py
